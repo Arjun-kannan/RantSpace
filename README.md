@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# RantSpace 🎯
 
-## Available Scripts
 
-In the project directory, you can run:
+## Basic Details
+### Team Name: Kranti
 
-### `npm start`
+### Team Members
+- Team Lead: Evan Augustion - College of Engineering, Trivandrum
+- Member 2: Dia Promod - College of Engineering, Trivandrum
+- Member 3: Arjun K.M. - College of Engineering, Trivandrum
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Project Description
+*RantSpace* is the ultimate platform to get real and say exactly what’s on your mind.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### The Problem (that doesn't exist)
+Tired of holding back? Here, you can rant freely, whether it’s about your friend, boss, or even “Mathew chettan.” And RantSpace does more than just listen—it “rants back” by showing you similar rants based on your mood.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### The Solution (that nobody asked for)
+Feeling annoyed? You might see rants like “Mathew chettan is a pottan.” In a better mood? Maybe you’ll see “Mathew chettan oru kidilam aanuu!!!” RantSpace taps into the vibe of what you’re saying and brings you responses that match your energy, so you’ll always feel heard and understood.
 
-### `npm run build`
+## Technical Details
+### Technologies/Components Used
+For Software:
+- React.js
+- Firebase
+- HTML
+- Tailwind
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Implementation
+For Software:
+Firebase backend, react frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Installation
+[commands]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run
+[commands]
 
-### `npm run eject`
+### Project Documentation
+For Software:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Screenshots (Add at least 3)
+![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Project Demo
+# Video
+[Add your demo video link here]
+*Explain what the video demonstrates*
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Team Contributions
+- Evan Augustion: refining the idea, setting up the backend
+- Dia Promod: UI/UX development
+- Arjun K.M.: setting up the backend, fine-tuning UI
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-### Code Splitting
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
